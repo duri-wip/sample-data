@@ -1,0 +1,24 @@
+2025-03-16 00:29:15 KST [auth-worker] INFO Token issued for user_id=12345, token_id=token_v1_abc123, expires_in=3600s
+2025-03-16 00:59:15 KST [auth-worker] INFO Token refresh initiated for user_id=12345
+2025-03-16 00:59:16 KST [auth-worker] INFO Old token revoked: token_v1_abc123, new token issued: token_v2_def456
+2025-03-16 01:00:16 KST [auth-worker] DEBUG Token validation failed for token_v1_abc123 (revoked)
+2025-03-16 01:05:00 KST [auth-worker] INFO Token issued for user_id=36699
+2025-03-16 01:08:00 KST [auth-worker] INFO Token issued for user_id=53036
+2025-03-16 01:11:00 KST [auth-worker] INFO Token issued for user_id=17584
+2025-03-16 01:14:00 KST [auth-worker] INFO Token issued for user_id=15224
+2025-03-16 01:17:00 KST [auth-worker] INFO Token issued for user_id=40636
+2025-03-16 01:20:00 KST [auth-worker] INFO Token issued for user_id=95527
+2025-03-16 01:23:00 KST [auth-worker] INFO Token issued for user_id=36392
+2025-03-16 01:26:00 KST [auth-worker] INFO Token issued for user_id=65325
+2025-03-16 01:29:00 KST [auth-worker] INFO Token issued for user_id=87560
+2025-03-16 01:32:00 KST [auth-worker] INFO Token issued for user_id=24671
+2025-03-16 01:35:00 KST [auth-worker] INFO Token issued for user_id=42518
+2025-03-16 01:38:00 KST [auth-worker] INFO Token issued for user_id=64062
+2025-03-16 01:41:00 KST [auth-worker] INFO Token issued for user_id=81414
+2025-03-16 01:44:00 KST [auth-worker] INFO Token issued for user_id=33623
+2025-03-16 01:47:00 KST [auth-worker] INFO Token issued for user_id=96805
+2025-03-16 01:50:00 KST [auth-worker] INFO Token issued for user_id=18692
+2025-03-16 01:53:00 KST [auth-worker] INFO Token issued for user_id=59277
+2025-03-16 01:56:00 KST [auth-worker] INFO Token issued for user_id=11111
+2025-03-16 01:59:00 KST [auth-worker] INFO Token issued for user_id=78242
+2025-03-16 02:02:00 KST [auth-worker] INFO Token issued for user_id=16908

@@ -1,0 +1,37 @@
+{"ts": "2025-03-15T23:59:45+08:00", "level": "INFO", "msg": "watch event started", "user_id": 12345, "video_id": 99999, "session_id": "sess_abc123"}
+{"ts": "2025-03-15T23:59:58+08:00", "level": "DEBUG", "msg": "playback progress", "user_id": 12345, "video_id": 99999, "position": 3540}
+{"ts": "2025-03-16T00:00:12+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 12345, "video_id": 99999, "duration": 3600}
+{"ts": "2025-03-16T00:00:13+08:00", "level": "INFO", "msg": "redis write success", "key": "watch_history:12345:2025-03-16", "ttl": "8h"}
+{"ts": "2025-03-16T00:00:14+08:00", "level": "NOTICE", "msg": "db persist failed, cached in redis", "error": "constraint violation", "user_id": 12345, "fallback": "redis_cache", "ttl": "8h"}
+{"ts": "2025-03-16T00:01:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 34289, "video_id": 2578}
+{"ts": "2025-03-16T00:02:34+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 67890, "video_id": 88888}
+{"ts": "2025-03-16T00:02:34+08:00", "level": "NOTICE", "msg": "db persist failed, cached in redis", "error": "constraint violation", "user_id": 67890}
+{"ts": "2025-03-16T00:03:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 53827, "video_id": 9671}
+{"ts": "2025-03-16T00:05:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 33867, "video_id": 1008}
+{"ts": "2025-03-16T00:07:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 49956, "video_id": 6152}
+{"ts": "2025-03-16T00:09:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 32682, "video_id": 5123}
+{"ts": "2025-03-16T00:11:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 80604, "video_id": 3081}
+{"ts": "2025-03-16T00:13:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 79744, "video_id": 5499}
+{"ts": "2025-03-16T00:15:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 22005, "video_id": 5328}
+{"ts": "2025-03-16T00:17:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 19614, "video_id": 3382}
+{"ts": "2025-03-16T00:19:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 33124, "video_id": 8867}
+{"ts": "2025-03-16T00:21:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 95409, "video_id": 5021}
+{"ts": "2025-03-16T00:23:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 77960, "video_id": 8753}
+{"ts": "2025-03-16T00:25:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 34184, "video_id": 5099}
+{"ts": "2025-03-16T00:27:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 86113, "video_id": 7052}
+{"ts": "2025-03-16T00:29:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 45443, "video_id": 2150}
+{"ts": "2025-03-16T00:31:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 58943, "video_id": 3240}
+{"ts": "2025-03-16T00:33:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 58513, "video_id": 3449}
+{"ts": "2025-03-16T00:35:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 52387, "video_id": 5001}
+{"ts": "2025-03-16T00:37:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 47821, "video_id": 7032}
+{"ts": "2025-03-16T00:39:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 20129, "video_id": 9638}
+{"ts": "2025-03-16T00:41:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 25238, "video_id": 1335}
+{"ts": "2025-03-16T00:43:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 96924, "video_id": 5227}
+{"ts": "2025-03-16T00:45:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 93477, "video_id": 3804}
+{"ts": "2025-03-16T00:47:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 69865, "video_id": 1472}
+{"ts": "2025-03-16T00:49:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 35213, "video_id": 5385}
+{"ts": "2025-03-16T00:51:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 58828, "video_id": 9531}
+{"ts": "2025-03-16T00:53:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 46987, "video_id": 2205}
+{"ts": "2025-03-16T00:55:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 32545, "video_id": 5572}
+{"ts": "2025-03-16T00:57:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 48010, "video_id": 3164}
+{"ts": "2025-03-16T00:59:00+08:00", "level": "INFO", "msg": "recording watch event", "user_id": 16437, "video_id": 5392}

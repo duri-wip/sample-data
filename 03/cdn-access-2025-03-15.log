@@ -1,0 +1,6 @@
+192.168.1.100 - - [15/Mar/2025:10:00:00 +0000] "GET /video/12345.m3u8 HTTP/1.1" 200 1024 "-" "VideoPlayer/1.0"
+192.168.1.101 - - [15/Mar/2025:10:05:00 +0000] "GET /video/67890.m3u8 HTTP/1.1" 200 2048 "-" "VideoPlayer/1.0"
+192.168.1.102 - - [15/Mar/2025:16:00:00 +0000] "GET /video/11111.m3u8 HTTP/1.1" 503 0 "-" "VideoPlayer/1.0"
+192.168.1.103 - - [15/Mar/2025:16:01:00 +0000] "GET /video/22222.m3u8 HTTP/1.1" 503 0 "-" "VideoPlayer/1.0"
+# CDN Origin Shield maintenance 16:00-16:10 UTC
+192.168.1.104 - - [15/Mar/2025:16:15:00 +0000] "GET /video/33333.m3u8 HTTP/1.1" 200 1536 "-" "VideoPlayer/1.0"
